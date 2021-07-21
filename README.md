@@ -1,6 +1,6 @@
 # antiXrespin
 
-This is an MX Linux respin of MX 19.2 with quite a few changes and additions.
+This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
 
 - Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
 
@@ -64,10 +64,9 @@ obmenu-generator
 - Issues:
   - Not sure why but if you load Openbox, you need to press meta+Shift+R to reload for elements to pop up. (or right click reload)
   - Left some picom source files in ~/ and ~/Documents. You can delete them.
-
+  - urxvt breaks when resizing with Ctrl+Shift+Plus. Can't fix this without editing the config- but I use xfce4-terminal and im lazy
 # Future Updates
-
-- Add in bpytop
+- Add bpytop
 - Make theme-switcher for Elena's dots
 - Find that gradient generator git and add it
 - ImageGoNord maybe? idk seems bloat
