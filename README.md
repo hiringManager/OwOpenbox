@@ -10,6 +10,9 @@ This is an MX Linux respin of MX 19.2 with quite a few changes and additions.
 
 ![2020 12 08-02 30 22 screenshot](https://user-images.githubusercontent.com/64992493/126489340-9b1c2579-217a-415b-8ff3-232745cb93f8.png)
 
+https://user-images.githubusercontent.com/64992493/126500451-d137672e-f79a-4e11-a51d-98fc41a25be0.mp4
+
+
 ### Login
 - User: owl
 - Password: toor
