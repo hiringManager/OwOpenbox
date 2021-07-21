@@ -59,9 +59,16 @@ pywal # wal -i ~/.wallpaper/mechanical/
 obmenu-generator
 
 - Issues:
-  Not sure why but if you load Openbox, you need to press meta+Shift+R to reload for elements to pop up. (or right click reload)
-  Left some picom source files in ~/ and ~/Documents. You can delete that.
+  - Not sure why but if you load Openbox, you need to press meta+Shift+R to reload for elements to pop up. (or right click reload)
+  - Left some picom source files in ~/ and ~/Documents. You can delete them.
 
+# Future Updates
 
-
-
+- Add in bpytop
+- Make theme-switcher for Elena's dots
+- Find that gradient generator git and add it
+- ImageGoNord maybe? idk seems bloat
+- Make rofi quit being fucking annoying
+- Add in Doom Emacs, but find a way to get image size WAY down.
+- Patch cacaview or whatever into vifm/ranger. 
+- purge picom and properly make a package for it
