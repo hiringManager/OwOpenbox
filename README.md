@@ -1,9 +1,12 @@
 # antiXrespin
 
-This is an MX Linux respin of MX 19.2 with quite a few changes and additions
+This is an MX Linux respin of MX 19.2 with quite a few changes and additions.
 
-- Link:
-https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
+- Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
+
+- Included dotfiles and dependencies 
+ https://github.com/owl4ce/dotfiles
+ https://github.com/elenapan/dotfiles
 
 ![2020 12 08-02 30 22 screenshot](https://user-images.githubusercontent.com/64992493/126489340-9b1c2579-217a-415b-8ff3-232745cb93f8.png)
 
