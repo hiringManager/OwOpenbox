@@ -6,8 +6,6 @@ This is an MX Linux respin of MX 19.2 with quite a few changes and additions
 https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
 
 ![2020 12 08-02 30 22 screenshot](https://user-images.githubusercontent.com/64992493/126489340-9b1c2579-217a-415b-8ff3-232745cb93f8.png)
-![Screenshots2020 07 23-00 39 04 screenshot](https://user-images.githubusercontent.com/64992493/126489360-5c089181-83f1-4183-950a-b226b8557e32.png)
-
 
 ### Login
 - User: owl
