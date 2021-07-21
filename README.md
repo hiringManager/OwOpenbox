@@ -2,6 +2,9 @@
 
 This is an MX Linux respin of MX 19.2 with quite a few changes and additions
 
+Link: The /antix/linuxfs is larger than 2GB, so I had to upload to Google Drive.
+https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
+
 ### Login
 - User: owl
 - Password: toor
