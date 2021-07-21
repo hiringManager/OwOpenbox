@@ -2,7 +2,7 @@
 
 This is an MX Linux respin of MX 19.2 with quite a few changes and additions
 
-Link: The /antix/linuxfs is larger than 2GB, so I had to upload to Google Drive.
+- Link:
 https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
 
 ### Login
@@ -26,6 +26,10 @@ Reboot and you're done.
 + WM - AwesomeWM (git and default startX) - Openbox
 + Terminal - urxvt
 + File Manager - thunar / ranger
+
+### Goodies
+
+- Try using fzwal, and check out what is included in ~/.colortoys and ~/.scripts
 
 ### Configuration 
 
