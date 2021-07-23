@@ -8,7 +8,10 @@ This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
  https://github.com/owl4ce/dotfiles
  https://github.com/elenapan/dotfiles
 
+
 ![2020 12 08-02 30 22 screenshot](https://user-images.githubusercontent.com/64992493/126489340-9b1c2579-217a-415b-8ff3-232745cb93f8.png)
+![2021 07 23-00 19 14 screenshot](https://user-images.githubusercontent.com/64992493/126741984-b924d1e1-48e2-411c-a534-65134ebe2b42.png)
+![2021 07 23-00 38 58 screenshot](https://user-images.githubusercontent.com/64992493/126742353-04c95a32-8899-430d-a9cb-8ce59e70804f.png)
 
 https://user-images.githubusercontent.com/64992493/126500451-d137672e-f79a-4e11-a51d-98fc41a25be0.mp4
 
