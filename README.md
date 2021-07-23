@@ -69,6 +69,7 @@ obmenu-generator
   - Left some picom source files in ~/ and ~/Documents. You can delete them.
   - urxvt breaks when resizing with Ctrl+Shift+Plus. Can't fix this without editing the config- but I use xfce4-terminal and im lazy
 # Future Updates
+- Add puppy Linux 'woof' at login because it's adorable
 - Add bpytop
 - Make theme-switcher for Elena's dots
 - Find that gradient generator git and add it
