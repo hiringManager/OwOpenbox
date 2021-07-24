@@ -25,6 +25,8 @@ Light DM:
 + Openbox Session
 + Fluxbox (in case you need to configure something that I neglected to include.)
 
+To install on your rig just run 'sudo minstall' for the guided install.
+
 If you'd like to use this as your main setup, it's a simple process to copy this config to a new user. 
 
 ``` sudo mx-usermanager ```
@@ -36,7 +38,7 @@ Reboot and you're done.
 + Init - sysvinit OR systemd (Both are included in MX, and either can be removed)
 + Shell - ZSH/Antigen
 + WM - AwesomeWM (git and default startX) - Openbox
-+ Terminal - urxvt
++ Terminal - urxvt/xfce4-terminal/kitty
 + File Manager - thunar / ranger
 
 ### Goodies
@@ -67,15 +69,28 @@ obmenu-generator
 - Issues:
   - Not sure why but if you load Openbox, you need to press meta+Shift+R to reload for elements to pop up. (or right click reload)
   - Left some picom source files in ~/ and ~/Documents. You can delete them.
-  - urxvt breaks when resizing with Ctrl+Shift+Plus. Can't fix this without editing the config- but I use xfce4-terminal and im lazy
-# Future Updates
+  - // Replaced with xfce4-terminal in Awesome // urxvt breaks when resizing with Ctrl+Shift+Plus. Can't fix this without editing the config.
+## Future Updates
 - Add puppy Linux 'woof' at login because it's adorable
-- Add bpytop
 - Make theme-switcher for Elena's dots
 - Find that gradient generator git and add it
 - ImageGoNord maybe? idk seems bloat
 - Make rofi quit being fucking annoying
 - Add in Doom Emacs, but find a way to get image size WAY down.
-- Patch cacaview or whatever into vifm/ranger. 
+- Patch cacaview or whatever into vifm/ranger. (partially done)
 - purge picom and properly make a package for it
+- find make dependencies for awesome and picom to cut down iso size.
 - check sddm deps and switch to it or slim. maybe tui-dm but that may prove too hacky
+- Purge either sysvinit or systemd to get iso down to <2GB
+- Make fluxbox mildly sexier even though I don't exactly want it listed in lightDM
+
+## New Additions July 24
+- cacaview now usable for ascii waifus # cacaview /path/to/waifu
+- XFCE4-Terminal main now due to urxvt breakage. 
+- Purged Librioffice/memeOfficeSuite and knocked ISO down by like 500 MB
+- Removed default settings for Awesome that I'd setup because people hate borders 'cept me
+- terminal now loads your last pywal / fzwal colors @exec
+- bpytop added for swagger
+- Added in cutechonky script to make your widgets feel more cute and chonky
+- Added in 'cutefetch' an alternative to bunnyfetch with animals that are more kawaii
+- purged nixpkgs I added out of laziness
