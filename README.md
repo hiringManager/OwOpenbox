@@ -78,3 +78,4 @@ obmenu-generator
 - Add in Doom Emacs, but find a way to get image size WAY down.
 - Patch cacaview or whatever into vifm/ranger. 
 - purge picom and properly make a package for it
+- check sddm deps and switch to it or slim. maybe tui-dm but that may prove too hacky
