@@ -2,7 +2,8 @@
 
 This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
 
-- Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
+- Version 1.0 - Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
+- Version 1.1 - Download:  https://drive.google.com/file/d/1Xq_uhQ-lDWCzQ8BGV4cQvS2UWa5TV_rO/view?usp=sharing
 
 - Included dotfiles and dependencies 
  https://github.com/owl4ce/dotfiles
@@ -13,7 +14,9 @@ This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
 ![2021 07 23-00 19 14 screenshot](https://user-images.githubusercontent.com/64992493/126741984-b924d1e1-48e2-411c-a534-65134ebe2b42.png)
 ![2021 07 23-00 38 58 screenshot](https://user-images.githubusercontent.com/64992493/126742353-04c95a32-8899-430d-a9cb-8ce59e70804f.png)
 
-https://user-images.githubusercontent.com/64992493/126500451-d137672e-f79a-4e11-a51d-98fc41a25be0.mp4
+# Version 1.1
+
+![image](https://user-images.githubusercontent.com/64992493/126877164-85b150ce-a39f-49e5-ada9-58226cc0f064.png)
 
 
 ### Login
