@@ -1,14 +1,17 @@
-# antiXrespin
+# OwOpenbox (because UwUbuntu was taken)
 
-This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
+This is an MX Linux respin of MX 19.4 with quite a few changes and additions.  
+(Goodbye XFCE, didn't want you anyway.)
+(Conky, more like 'Gone-ky')
 
 - Version 1.0 - Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
 - Version 1.1 - Download:  https://drive.google.com/file/d/1Xq_uhQ-lDWCzQ8BGV4cQvS2UWa5TV_rO/view?usp=sharing
 
-- Included dotfiles and dependencies 
+- Included dotfiles, heroes, and dependencies. 
  https://github.com/owl4ce/dotfiles
  https://github.com/elenapan/dotfiles
-
+- *Not included*
+- ANYTHING ANIME RELATED EXCEPT FOR WHAT CAME IN OWL'S DOTFILES
 
 ![2020 12 08-02 30 22 screenshot](https://user-images.githubusercontent.com/64992493/126489340-9b1c2579-217a-415b-8ff3-232745cb93f8.png)
 ![2021 07 23-00 19 14 screenshot](https://user-images.githubusercontent.com/64992493/126741984-b924d1e1-48e2-411c-a534-65134ebe2b42.png)
@@ -17,7 +20,6 @@ This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
 # Version 1.1
 
 ![image](https://user-images.githubusercontent.com/64992493/126877164-85b150ce-a39f-49e5-ada9-58226cc0f064.png)
-
 
 ### Login
 - User: owl
@@ -86,6 +88,9 @@ obmenu-generator
 - check sddm deps and switch to it or slim. maybe tui-dm but that may prove too hacky
 - Purge either sysvinit or systemd to get iso down to <2GB
 - Make fluxbox mildly sexier even though I don't exactly want it listed in lightDM
+- Add in tile script for openbox.
+- Fix network manager erroring on the horizontal layout. # mv ~/.config/openbox/exec/network elsewhere for now. 
+- I want that awesome.spawn(keybinds) Meta+S thingy from the main branch. What's up with that, and can I just plug it back in? 
 
 ## New Additions July 24
 - cacaview now usable for ascii waifus # cacaview /path/to/waifu
