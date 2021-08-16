@@ -7,6 +7,8 @@ This is an MX Linux respin of MX 19.4 with quite a few changes and additions.
 - Version 1.0 - Download: https://drive.google.com/file/d/1jEJvE10SENbm-hO_2xvn-O8hx6BgtkJW/view?usp=sharing
 - Version 1.1 - Download:  https://drive.google.com/file/d/1Xq_uhQ-lDWCzQ8BGV4cQvS2UWa5TV_rO/view?usp=sharing
 
+######## I'm putting this on hiatus until the next version of Debian gets rolled out for MX. Hopefully that will fix some of the ongoing issues I haven't fixed. Picom is a bastard currently, and there is something going on that is slaughtering performance - and it's next to impossible for me to troubleshoot. The devscripts are not removing dependencies for awesome + picom compilation without breaking it, so I'll need to learn more about packaging before things get fixed how I'd like.
+
 - Included dotfiles, heroes, and dependencies. 
  https://github.com/owl4ce/dotfiles
  https://github.com/elenapan/dotfiles
